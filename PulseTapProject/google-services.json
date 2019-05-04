@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "462253004648",
+    "firebase_url": "https://parse-server-starter-pro-6780d.firebaseio.com",
+    "project_id": "parse-server-starter-pro-6780d",
+    "storage_bucket": "parse-server-starter-pro-6780d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462253004648:android:496897f7b68def35",
+        "android_client_info": {
+          "package_name": "com.parse.starter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462253004648-7f9ghdv2qsuosmpgdtjfnur09ec0dd13.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.parse.starter",
+            "certificate_hash": "d6cf83051ac780169af4feef6e3948cffb078ae6"
+          }
+        },
+        {
+          "client_id": "462253004648-6g1g3jvp5l1l3lblkbrn2ctno19cpmk2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMFO0erELCtNE841lcswxJekO3TSi_pGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462253004648-6g1g3jvp5l1l3lblkbrn2ctno19cpmk2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
